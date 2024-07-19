@@ -1,0 +1,27 @@
+<div class="relative">
+  <div
+    #content
+    class="mt-10 mx-8 md:mx-20 grid grid-cols-[repeat(auto-fit,230px)] grid-flow-col gap-4 md:gap-6 overflow-hidden overflow-x-hidden relative z-10 scroll-smooth transition-all scrolbar-none"
+  >
+    @if(dataObs | async; as popularMovies) { @for(movie of popularMovies; track
+    movie.id){
+
+    <app-movie [movie]="movie" />
+    } }
+  </div>
+
+  <div class="absolute top-0 flex justify-between w-full h-full items-center">
+    <button
+      (click)="scrollLeft()"
+      class="bg-white size-7 text-xl rounded-full ml-3 z-40"
+    >
+      &#9666;
+    </button>
+    <button
+      (click)="scrollRight()"
+      class="bg-white size-7 text-xl rounded-full mr-3 z-40"
+    >
+      &#9656;
+    </button>
+  </div>
+</div>
