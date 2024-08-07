@@ -1,22 +1,23 @@
 # EG Angular Movies
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/eg-angular-movies)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/eg-angular-movies) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/eg-angular-movies)
 
 ## Overview
 
-This is a movie database application with all the features you'd expect from a movie database. Ratings, actors, trailers, and so much more!
+**EG Angular Movies** is a feature-rich movie database application designed to offer everything you'd expect from a comprehensive movie database. From ratings and actors to trailers and more, this app delivers a full cinematic experience at your fingertips.
 
-![eg-angular-movies](https://github.com/user-attachments/assets/b4d7cbf3-d00e-4e89-b8af-e4037d79762d)
+![EG Angular Movies Screenshot](https://github.com/user-attachments/assets/b4d7cbf3-d00e-4e89-b8af-e4037d79762d)
 
 ## Technologies
 
-- **JavaScript:** The primary programming language used for the project.
-- **Angular:** Leveraging the latest features and improvements with Angular.
-- **TailwindCSS:** A utility-first CSS framework for rapid UI development.
+- **TypeScript**: Ensures type safety and enhances the JavaScript development experience.
+- **Angular**: Utilized for building a scalable, maintainable, and performance-driven application.
+- **Tailwind CSS**: A utility-first CSS framework for building custom designs with ease.
+- **Netlify**: Deployed using Netlify for smooth continuous deployment and hosting.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
 
-### Development server
+## Getting Started
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
