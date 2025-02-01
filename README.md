@@ -1,12 +1,12 @@
 # EG Angular Movies
 
+![angularmoviedb](https://github.com/user-attachments/assets/b23e0d09-4006-4401-9a4b-0021d0d929f2)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub repo size](https://img.shields.io/github/repo-size/egarrisxn/eg-angular-movies) ![GitHub last commit](https://img.shields.io/github/last-commit/egarrisxn/eg-angular-movies)
 
 ## Overview
 
 **EG Angular Movies** is a feature-rich movie database application designed to offer everything you'd expect from a comprehensive movie database. From ratings and actors to trailers and more, this app delivers a full cinematic experience at your fingertips.
-
-![EG Angular Movies Screenshot](https://github.com/user-attachments/assets/b4d7cbf3-d00e-4e89-b8af-e4037d79762d)
 
 ## Technologies
 
