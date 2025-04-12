@@ -1,4 +1,4 @@
-# EG Angular Movies 2024
+# Angular Movies DB 2023
 
 ![angularmoviedb](https://github.com/user-attachments/assets/b23e0d09-4006-4401-9a4b-0021d0d929f2)
 
